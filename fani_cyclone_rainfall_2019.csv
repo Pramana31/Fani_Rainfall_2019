@@ -1,0 +1,201 @@
+Date,State,District,Latitude,Longitude,WindSpeed_kmph,Pressure_hPa,Humidity_%,Temperature_C,Rainfall_mm,Distance_from_eye_km,Category,Day_of_Week,Sea_Surface_Temp_C,Precipitable_Water_mm
+2019-04-20 00:00,West Bengal,North 24 Parganas,16.37,87.61,171.8,981.9,66.2,23.9,173.6,16.0,Severe Cyclonic Storm,Saturday,30.9,65.0
+2019-04-20 06:00,Andhra Pradesh,Visakhapatnam,14.91,81.45,73.0,961.3,81.0,27.2,142.9,94.5,Deep Depression,Saturday,29.4,44.2
+2019-04-20 12:00,Tamil Nadu,Thanjavur,15.63,82.93,122.1,995.0,68.0,28.2,112.1,186.2,Cyclonic Storm,Saturday,27.7,42.0
+2019-04-20 18:00,Andhra Pradesh,Visakhapatnam,21.54,87.73,185.5,961.3,63.9,30.2,157.9,137.6,Severe Cyclonic Storm,Saturday,27.5,54.9
+2019-04-21 00:00,Odisha,Balasore,13.31,87.27,86.6,986.4,72.5,28.2,91.9,291.2,Severe Cyclonic Storm,Sunday,30.1,68.2
+2019-04-21 06:00,West Bengal,South 24 Parganas,21.05,84.78,205.9,946.2,67.8,22.5,172.3,104.3,Cyclonic Storm,Sunday,28.6,48.1
+2019-04-21 12:00,Tamil Nadu,Chennai,20.46,82.85,90.6,978.0,65.6,31.6,110.1,11.6,Cyclonic Storm,Sunday,30.3,61.2
+2019-04-21 18:00,Odisha,Ganjam,19.56,86.17,53.3,965.1,64.6,32.4,133.0,190.8,Cyclonic Storm,Sunday,28.3,41.9
+2019-04-22 00:00,Tamil Nadu,Thanjavur,15.8,82.6,171.3,984.6,95.5,27.7,147.8,230.6,Severe Cyclonic Storm,Monday,29.2,63.1
+2019-04-22 06:00,West Bengal,South 24 Parganas,17.44,84.18,117.0,941.8,64.3,22.4,135.4,194.6,Very Severe Cyclonic Storm,Monday,28.3,55.3
+2019-04-22 12:00,Andhra Pradesh,Srikakulam,21.17,81.99,113.9,992.9,69.2,22.9,105.9,279.6,Deep Depression,Monday,30.2,59.0
+2019-04-22 18:00,Andhra Pradesh,Guntur,20.84,86.43,73.6,1002.5,81.6,31.7,97.1,269.9,Cyclonic Storm,Monday,28.3,43.3
+2019-04-23 00:00,Odisha,Khurda,15.05,83.42,187.2,1000.3,60.3,28.1,108.3,44.8,Deep Depression,Tuesday,28.4,68.3
+2019-04-23 06:00,Andhra Pradesh,Visakhapatnam,15.91,84.15,166.5,965.5,98.9,33.5,140.5,83.0,Deep Depression,Tuesday,29.0,49.0
+2019-04-23 12:00,Odisha,Khurda,15.56,80.3,149.7,975.2,62.1,25.3,136.0,52.0,Very Severe Cyclonic Storm,Tuesday,29.0,69.6
+2019-04-23 18:00,Andhra Pradesh,Visakhapatnam,15.18,85.38,177.1,956.6,89.1,26.4,162.0,193.4,Severe Cyclonic Storm,Tuesday,29.5,56.1
+2019-04-24 00:00,Tamil Nadu,Chennai,13.81,86.68,97.7,953.1,61.6,29.1,106.9,197.1,Very Severe Cyclonic Storm,Wednesday,27.7,60.7
+2019-04-24 06:00,Tamil Nadu,Kanchipuram,16.48,87.49,64.8,963.9,64.5,33.1,125.6,264.4,Cyclonic Storm,Wednesday,28.0,59.8
+2019-04-24 12:00,West Bengal,Howrah,20.35,84.44,135.3,956.9,63.7,32.8,150.6,108.3,Severe Cyclonic Storm,Wednesday,28.4,61.8
+2019-04-24 18:00,West Bengal,Midnapore,21.07,87.1,180.4,984.9,63.4,23.9,158.3,270.6,Deep Depression,Wednesday,29.4,40.3
+2019-04-25 00:00,Tamil Nadu,Nagapattinam,13.91,85.31,40.9,951.3,81.9,30.3,100.7,216.5,Severe Cyclonic Storm,Thursday,27.9,49.8
+2019-04-25 06:00,Odisha,Puri,19.72,85.2,192.9,986.0,82.7,23.1,158.4,116.6,Cyclonic Storm,Thursday,28.1,47.3
+2019-04-25 12:00,Odisha,Puri,21.76,83.14,200.6,984.2,91.8,28.0,142.8,66.6,Cyclonic Storm,Thursday,29.9,48.4
+2019-04-25 18:00,Tamil Nadu,Kanchipuram,13.22,85.16,71.9,1005.8,98.2,33.0,159.5,117.3,Severe Cyclonic Storm,Thursday,27.1,67.8
+2019-04-26 00:00,Tamil Nadu,Thanjavur,16.85,87.73,213.5,999.7,71.8,26.6,134.6,59.2,Cyclonic Storm,Friday,29.2,68.1
+2019-04-26 06:00,Odisha,Cuttack,19.26,84.56,57.5,983.1,99.6,23.7,130.0,160.3,Severe Cyclonic Storm,Friday,30.5,62.2
+2019-04-26 12:00,Andhra Pradesh,Visakhapatnam,19.27,85.62,104.7,960.6,92.4,31.7,146.2,241.5,Cyclonic Storm,Friday,29.6,61.1
+2019-04-26 18:00,West Bengal,North 24 Parganas,20.16,87.12,100.8,966.3,63.8,28.9,209.1,20.4,Severe Cyclonic Storm,Friday,28.9,56.3
+2019-04-27 00:00,Odisha,Puri,15.58,84.73,45.5,942.6,92.9,26.3,131.4,233.3,Severe Cyclonic Storm,Saturday,27.9,58.7
+2019-04-27 06:00,Odisha,Puri,13.77,80.41,135.6,977.8,85.5,30.7,113.4,293.0,Severe Cyclonic Storm,Saturday,29.1,49.7
+2019-04-27 12:00,Andhra Pradesh,Vizianagaram,20.16,82.17,119.0,945.5,61.0,33.6,157.1,128.6,Very Severe Cyclonic Storm,Saturday,27.7,44.7
+2019-04-27 18:00,West Bengal,South 24 Parganas,15.25,84.39,168.6,986.2,71.2,33.5,156.4,224.0,Severe Cyclonic Storm,Saturday,29.2,58.4
+2019-04-28 00:00,Odisha,Khurda,16.78,81.98,104.1,993.0,60.6,23.4,128.4,147.5,Very Severe Cyclonic Storm,Sunday,27.4,54.7
+2019-04-28 06:00,West Bengal,Kolkata,17.26,81.39,118.1,967.9,84.6,29.6,151.1,23.1,Severe Cyclonic Storm,Sunday,28.5,58.8
+2019-04-28 12:00,Tamil Nadu,Cuddalore,17.53,86.85,158.6,951.4,62.8,29.7,155.3,282.7,Cyclonic Storm,Sunday,29.3,51.6
+2019-04-28 18:00,Odisha,Ganjam,18.79,83.67,138.2,1005.9,75.4,33.5,113.9,272.6,Cyclonic Storm,Sunday,27.8,42.1
+2019-04-29 00:00,Andhra Pradesh,Visakhapatnam,13.91,80.15,57.0,987.8,62.8,25.8,98.6,44.3,Severe Cyclonic Storm,Monday,29.8,58.9
+2019-04-29 06:00,Tamil Nadu,Nagapattinam,20.9,85.88,184.6,959.7,67.1,31.0,173.3,244.0,Very Severe Cyclonic Storm,Monday,31.0,52.4
+2019-04-29 12:00,Odisha,Puri,16.35,86.21,101.3,1005.2,94.3,27.1,129.2,39.9,Severe Cyclonic Storm,Monday,30.6,55.2
+2019-04-29 18:00,Andhra Pradesh,Krishna,20.44,82.56,201.2,967.2,60.4,32.9,173.0,36.5,Very Severe Cyclonic Storm,Monday,28.3,68.5
+2019-04-30 00:00,Andhra Pradesh,Srikakulam,21.56,84.59,153.7,971.4,71.7,25.9,165.9,239.6,Very Severe Cyclonic Storm,Tuesday,30.2,42.7
+2019-04-30 06:00,Andhra Pradesh,Guntur,17.45,80.46,138.9,970.9,95.5,26.2,155.1,43.9,Cyclonic Storm,Tuesday,27.6,62.8
+2019-04-30 12:00,West Bengal,North 24 Parganas,18.56,80.81,55.1,989.1,62.9,31.9,99.8,34.6,Deep Depression,Tuesday,30.9,51.2
+2019-04-30 18:00,Andhra Pradesh,Vizianagaram,16.34,86.5,210.5,1009.0,90.1,26.5,142.8,34.2,Cyclonic Storm,Tuesday,30.1,56.8
+2019-05-01 00:00,West Bengal,Midnapore,16.82,87.25,60.0,974.5,60.5,27.6,124.2,226.4,Severe Cyclonic Storm,Wednesday,29.3,68.9
+2019-05-01 06:00,Odisha,Khurda,16.37,82.29,196.3,955.7,98.5,22.1,144.7,291.3,Cyclonic Storm,Wednesday,27.2,66.7
+2019-05-01 12:00,Odisha,Puri,17.75,87.94,53.3,978.8,98.8,28.3,142.9,141.8,Cyclonic Storm,Wednesday,29.5,57.5
+2019-05-01 18:00,Tamil Nadu,Thanjavur,21.11,80.36,90.6,1006.5,95.6,27.5,128.6,189.8,Severe Cyclonic Storm,Wednesday,28.1,45.6
+2019-05-02 00:00,West Bengal,Midnapore,17.17,82.83,145.1,945.4,99.0,33.8,160.4,99.8,Very Severe Cyclonic Storm,Thursday,30.3,60.5
+2019-05-02 06:00,Odisha,Ganjam,14.46,87.29,188.1,1006.5,89.0,29.4,171.3,131.3,Deep Depression,Thursday,30.7,66.0
+2019-05-02 12:00,Odisha,Balasore,13.41,80.21,107.8,996.7,99.5,23.8,84.3,291.3,Cyclonic Storm,Thursday,30.4,65.1
+2019-05-02 18:00,Odisha,Puri,17.22,83.32,89.2,943.9,94.6,31.8,167.4,299.9,Cyclonic Storm,Thursday,31.0,56.7
+2019-05-03 00:00,West Bengal,North 24 Parganas,19.92,87.56,192.9,957.3,78.0,23.5,162.0,76.3,Very Severe Cyclonic Storm,Friday,29.7,58.5
+2019-05-03 06:00,Tamil Nadu,Nagapattinam,16.22,80.91,160.9,976.4,90.9,28.2,152.3,257.1,Deep Depression,Friday,29.2,56.8
+2019-05-03 12:00,Odisha,Puri,20.89,83.23,64.1,942.0,90.2,29.4,115.7,49.5,Very Severe Cyclonic Storm,Friday,27.1,50.5
+2019-05-03 18:00,Odisha,Khurda,18.31,83.14,118.7,1003.3,73.9,28.2,131.7,237.3,Deep Depression,Friday,28.6,58.7
+2019-05-04 00:00,Andhra Pradesh,Krishna,20.76,87.6,66.5,1004.9,79.7,25.1,111.9,152.9,Severe Cyclonic Storm,Saturday,28.3,59.0
+2019-05-04 06:00,Odisha,Cuttack,15.16,80.61,63.2,949.0,66.1,23.7,130.6,195.9,Cyclonic Storm,Saturday,27.7,50.4
+2019-05-04 12:00,Tamil Nadu,Chennai,21.07,83.79,160.2,952.1,67.7,22.5,143.4,61.3,Cyclonic Storm,Saturday,27.4,43.6
+2019-05-04 18:00,Tamil Nadu,Thanjavur,17.15,81.65,105.6,975.2,87.6,22.5,112.9,241.8,Severe Cyclonic Storm,Saturday,29.5,42.5
+2019-05-05 00:00,Tamil Nadu,Thanjavur,20.86,87.37,51.0,959.4,92.2,31.0,112.4,117.4,Cyclonic Storm,Sunday,28.9,58.5
+2019-05-05 06:00,Andhra Pradesh,Krishna,16.32,83.7,174.5,942.6,70.1,30.6,150.8,269.6,Cyclonic Storm,Sunday,29.0,56.0
+2019-05-05 12:00,West Bengal,Midnapore,13.96,83.58,135.9,957.0,70.8,26.5,132.5,44.7,Very Severe Cyclonic Storm,Sunday,30.6,57.8
+2019-05-05 18:00,West Bengal,Midnapore,19.11,86.31,129.7,946.1,81.5,29.0,127.7,226.2,Very Severe Cyclonic Storm,Sunday,28.7,43.8
+2019-05-06 00:00,Odisha,Balasore,15.55,82.9,156.3,980.0,74.2,33.8,111.1,39.5,Severe Cyclonic Storm,Monday,27.6,47.4
+2019-05-06 06:00,Odisha,Ganjam,14.45,81.49,91.3,952.1,95.9,23.0,148.0,162.1,Severe Cyclonic Storm,Monday,28.6,69.5
+2019-05-06 12:00,Odisha,Puri,14.01,83.18,214.5,1000.6,92.7,25.1,153.3,279.5,Deep Depression,Monday,29.2,57.1
+2019-05-06 18:00,West Bengal,South 24 Parganas,15.52,86.16,73.7,962.7,77.0,28.1,107.5,80.3,Severe Cyclonic Storm,Monday,27.5,58.3
+2019-05-07 00:00,West Bengal,Midnapore,15.6,84.65,67.8,973.7,81.3,22.6,102.9,28.4,Cyclonic Storm,Tuesday,31.0,49.7
+2019-05-07 06:00,Andhra Pradesh,Vizianagaram,20.29,82.04,162.7,993.2,83.8,27.7,126.4,129.4,Severe Cyclonic Storm,Tuesday,28.4,67.9
+2019-05-07 12:00,Tamil Nadu,Cuddalore,20.48,87.72,62.4,991.2,97.5,24.2,111.7,176.6,Cyclonic Storm,Tuesday,30.4,44.2
+2019-05-07 18:00,Odisha,Cuttack,20.16,81.61,69.5,951.5,92.6,30.0,128.5,161.7,Depression,Tuesday,28.4,66.3
+2019-05-08 00:00,Andhra Pradesh,Vizianagaram,16.53,86.53,119.0,966.4,78.5,25.6,136.9,77.3,Severe Cyclonic Storm,Wednesday,30.6,51.5
+2019-05-08 06:00,West Bengal,Midnapore,17.89,87.25,152.4,948.2,97.6,29.5,187.5,107.1,Severe Cyclonic Storm,Wednesday,27.6,63.8
+2019-05-08 12:00,Andhra Pradesh,Krishna,18.58,84.27,200.9,995.2,66.1,25.7,159.2,19.7,Severe Cyclonic Storm,Wednesday,29.3,62.9
+2019-05-08 18:00,Odisha,Ganjam,20.89,82.74,187.8,947.7,93.9,23.5,146.0,125.2,Severe Cyclonic Storm,Wednesday,30.2,44.5
+2019-05-09 00:00,Andhra Pradesh,Visakhapatnam,15.06,85.78,169.6,984.9,87.8,28.5,124.5,62.7,Severe Cyclonic Storm,Thursday,30.6,57.5
+2019-05-09 06:00,Odisha,Ganjam,16.61,83.7,210.5,950.7,83.4,28.1,142.4,187.3,Very Severe Cyclonic Storm,Thursday,27.1,66.2
+2019-05-09 12:00,West Bengal,North 24 Parganas,21.39,84.52,165.4,1004.6,88.3,23.8,166.7,133.0,Deep Depression,Thursday,29.9,68.0
+2019-05-09 18:00,Tamil Nadu,Kanchipuram,21.33,83.61,60.4,1008.9,93.6,23.5,127.6,277.0,Deep Depression,Thursday,30.5,55.6
+2019-05-10 00:00,Tamil Nadu,Cuddalore,18.32,83.19,49.9,963.5,92.1,22.1,100.5,165.8,Cyclonic Storm,Friday,30.7,50.4
+2019-05-10 06:00,Odisha,Khurda,16.12,85.9,121.4,955.7,78.1,23.7,109.4,61.2,Cyclonic Storm,Friday,29.0,52.6
+2019-05-10 12:00,West Bengal,Kolkata,21.23,82.9,144.5,984.3,60.5,30.0,128.6,34.8,Very Severe Cyclonic Storm,Friday,31.0,55.1
+2019-05-10 18:00,Odisha,Balasore,18.36,80.54,175.0,954.7,95.9,24.5,134.3,65.3,Severe Cyclonic Storm,Friday,27.1,54.2
+2019-05-11 00:00,West Bengal,North 24 Parganas,18.08,80.53,179.6,971.7,81.0,27.3,174.0,55.0,Cyclonic Storm,Saturday,27.7,65.9
+2019-05-11 06:00,Tamil Nadu,Chennai,21.52,82.99,88.7,985.1,76.3,22.3,78.2,55.3,Cyclonic Storm,Saturday,29.9,59.8
+2019-05-11 12:00,West Bengal,Kolkata,13.24,81.78,81.6,987.0,60.8,23.2,106.4,199.3,Cyclonic Storm,Saturday,28.0,43.0
+2019-05-11 18:00,Tamil Nadu,Nagapattinam,15.19,85.78,194.0,998.1,75.9,30.0,149.2,69.4,Very Severe Cyclonic Storm,Saturday,28.2,66.9
+2019-05-12 00:00,Odisha,Ganjam,13.12,80.68,77.4,941.9,67.3,29.0,156.9,247.1,Severe Cyclonic Storm,Sunday,28.4,47.8
+2019-05-12 06:00,Andhra Pradesh,Krishna,16.42,84.72,88.3,983.7,76.4,28.6,116.5,136.5,Cyclonic Storm,Sunday,28.2,68.5
+2019-05-12 12:00,West Bengal,South 24 Parganas,19.87,81.12,196.3,974.1,95.8,31.6,144.8,87.9,Severe Cyclonic Storm,Sunday,29.2,59.0
+2019-05-12 18:00,Andhra Pradesh,Guntur,15.32,81.11,190.3,1008.9,81.0,24.1,132.0,89.0,Severe Cyclonic Storm,Sunday,27.1,67.4
+2019-05-13 00:00,Tamil Nadu,Cuddalore,14.06,84.61,89.3,978.8,86.1,32.0,128.0,184.1,Cyclonic Storm,Monday,29.7,45.3
+2019-05-13 06:00,Andhra Pradesh,Vizianagaram,21.23,83.35,109.0,976.3,61.9,24.0,148.8,224.0,Cyclonic Storm,Monday,27.3,58.1
+2019-05-13 12:00,West Bengal,Midnapore,15.21,83.11,92.0,964.9,88.8,25.6,111.6,202.5,Deep Depression,Monday,30.7,62.0
+2019-05-13 18:00,Tamil Nadu,Thanjavur,14.93,80.25,87.2,981.7,62.1,28.0,173.6,183.1,Severe Cyclonic Storm,Monday,28.3,63.1
+2019-05-14 00:00,Odisha,Cuttack,13.96,80.6,171.1,974.7,87.5,27.2,159.6,241.8,Very Severe Cyclonic Storm,Tuesday,29.8,48.2
+2019-05-14 06:00,Odisha,Ganjam,18.31,82.89,56.5,1004.2,65.5,33.4,90.8,139.3,Cyclonic Storm,Tuesday,27.7,56.3
+2019-05-14 12:00,West Bengal,Kolkata,20.86,85.86,185.2,986.1,87.7,32.2,141.8,74.2,Very Severe Cyclonic Storm,Tuesday,31.0,68.3
+2019-05-14 18:00,West Bengal,North 24 Parganas,13.35,85.64,206.5,952.6,82.7,33.0,132.1,19.8,Very Severe Cyclonic Storm,Tuesday,29.8,48.9
+2019-05-15 00:00,Tamil Nadu,Nagapattinam,21.32,87.77,210.0,973.2,94.5,32.1,174.7,20.7,Deep Depression,Wednesday,29.4,46.9
+2019-05-15 06:00,Andhra Pradesh,Krishna,14.09,80.62,165.3,963.8,89.0,22.8,139.1,101.4,Depression,Wednesday,29.2,63.7
+2019-05-15 12:00,Andhra Pradesh,Visakhapatnam,15.87,85.01,199.5,983.1,69.3,22.3,150.0,282.3,Very Severe Cyclonic Storm,Wednesday,30.2,69.9
+2019-05-15 18:00,Tamil Nadu,Thanjavur,16.16,86.14,112.3,973.6,85.1,32.5,152.6,295.4,Severe Cyclonic Storm,Wednesday,30.1,52.5
+2019-05-16 00:00,Andhra Pradesh,Visakhapatnam,16.79,85.9,83.0,947.7,74.2,25.4,116.8,22.2,Severe Cyclonic Storm,Thursday,27.1,69.6
+2019-05-16 06:00,Odisha,Balasore,16.85,83.07,162.3,955.3,98.0,31.4,137.6,35.9,Very Severe Cyclonic Storm,Thursday,28.7,66.4
+2019-05-16 12:00,Andhra Pradesh,Krishna,21.5,83.74,150.4,951.7,99.6,24.8,155.1,186.2,Very Severe Cyclonic Storm,Thursday,29.1,46.9
+2019-05-16 18:00,Andhra Pradesh,Krishna,14.59,81.76,73.6,994.6,74.0,22.7,120.9,291.0,Severe Cyclonic Storm,Thursday,30.5,67.8
+2019-05-17 00:00,Odisha,Khurda,21.95,81.39,111.3,993.1,87.8,23.8,110.2,74.9,Deep Depression,Friday,29.1,57.8
+2019-05-17 06:00,West Bengal,Kolkata,18.22,80.73,197.9,958.6,65.2,32.7,172.8,287.1,Severe Cyclonic Storm,Friday,30.4,64.3
+2019-05-17 12:00,West Bengal,North 24 Parganas,18.9,84.41,55.7,968.6,74.9,25.1,119.0,33.5,Very Severe Cyclonic Storm,Friday,27.9,60.5
+2019-05-17 18:00,Andhra Pradesh,Visakhapatnam,13.69,86.81,129.1,973.6,83.7,31.9,171.4,110.9,Depression,Friday,29.7,57.0
+2019-05-18 00:00,Odisha,Cuttack,15.4,87.03,183.5,986.1,94.0,32.4,159.2,212.3,Cyclonic Storm,Saturday,29.7,58.6
+2019-05-18 06:00,West Bengal,Kolkata,19.77,81.27,198.6,1001.0,61.2,31.9,149.3,47.4,Very Severe Cyclonic Storm,Saturday,28.3,62.3
+2019-05-18 12:00,Odisha,Khurda,14.45,86.54,189.8,975.5,60.3,25.4,153.5,193.2,Severe Cyclonic Storm,Saturday,28.0,59.0
+2019-05-18 18:00,Andhra Pradesh,Vizianagaram,17.86,86.24,59.3,993.3,81.7,33.6,109.1,109.1,Cyclonic Storm,Saturday,29.5,68.0
+2019-05-19 00:00,Tamil Nadu,Thanjavur,13.92,87.5,163.8,944.7,72.0,30.5,161.3,110.3,Cyclonic Storm,Sunday,29.5,41.4
+2019-05-19 06:00,Tamil Nadu,Chennai,20.84,87.79,214.4,992.5,65.2,31.1,133.3,17.1,Very Severe Cyclonic Storm,Sunday,27.1,49.7
+2019-05-19 12:00,Odisha,Balasore,17.4,86.16,163.0,971.2,70.9,34.0,116.2,57.5,Depression,Sunday,30.2,60.8
+2019-05-19 18:00,Tamil Nadu,Kanchipuram,14.99,80.66,162.5,985.8,70.9,33.4,93.7,53.8,Cyclonic Storm,Sunday,28.7,68.3
+2019-05-20 00:00,West Bengal,North 24 Parganas,16.78,85.11,111.6,959.2,99.4,26.9,133.5,71.8,Severe Cyclonic Storm,Monday,27.1,59.6
+2019-05-20 06:00,Odisha,Khurda,16.32,86.91,125.2,1007.8,67.4,32.4,124.4,235.2,Cyclonic Storm,Monday,30.1,65.3
+2019-05-20 12:00,Andhra Pradesh,Guntur,19.85,85.01,63.6,942.3,96.8,29.4,133.0,44.0,Cyclonic Storm,Monday,27.5,60.6
+2019-05-20 18:00,Odisha,Balasore,16.87,81.6,128.5,944.5,83.3,25.2,178.7,241.3,Severe Cyclonic Storm,Monday,28.2,53.7
+2019-05-21 00:00,Odisha,Cuttack,13.1,80.58,110.6,973.6,84.0,25.5,146.6,236.2,Cyclonic Storm,Tuesday,27.2,54.4
+2019-05-21 06:00,Andhra Pradesh,Srikakulam,13.94,81.94,217.6,950.0,80.0,29.4,177.9,213.7,Very Severe Cyclonic Storm,Tuesday,29.2,40.3
+2019-05-21 12:00,Odisha,Khurda,15.94,84.14,55.8,964.5,61.3,22.9,101.7,174.6,Severe Cyclonic Storm,Tuesday,29.8,64.0
+2019-05-21 18:00,West Bengal,Howrah,14.8,81.34,58.8,984.6,88.3,22.4,106.8,281.5,Severe Cyclonic Storm,Tuesday,27.2,56.2
+2019-05-22 00:00,Odisha,Cuttack,19.38,86.97,168.5,996.1,73.6,31.8,160.4,141.2,Severe Cyclonic Storm,Wednesday,29.6,55.8
+2019-05-22 06:00,Andhra Pradesh,Srikakulam,19.58,80.65,50.9,957.3,66.4,32.5,128.0,73.6,Very Severe Cyclonic Storm,Wednesday,30.9,50.1
+2019-05-22 12:00,Tamil Nadu,Kanchipuram,14.64,86.32,158.6,974.9,82.2,30.6,143.0,67.9,Severe Cyclonic Storm,Wednesday,29.7,42.2
+2019-05-22 18:00,West Bengal,North 24 Parganas,13.28,82.06,123.3,1000.8,89.1,30.9,122.8,133.4,Severe Cyclonic Storm,Wednesday,28.4,51.1
+2019-05-23 00:00,Odisha,Puri,21.89,80.32,196.1,980.5,77.5,30.7,170.3,271.2,Very Severe Cyclonic Storm,Thursday,28.7,48.3
+2019-05-23 06:00,West Bengal,Howrah,18.33,87.3,77.9,983.6,85.3,30.8,116.9,48.2,Cyclonic Storm,Thursday,29.9,67.3
+2019-05-23 12:00,Odisha,Cuttack,14.62,81.9,214.9,952.7,94.2,27.9,178.2,139.1,Very Severe Cyclonic Storm,Thursday,29.1,50.8
+2019-05-23 18:00,Andhra Pradesh,Krishna,18.34,81.31,110.4,1007.9,70.3,29.9,106.2,104.3,Severe Cyclonic Storm,Thursday,30.1,43.9
+2019-05-24 00:00,Tamil Nadu,Kanchipuram,21.73,83.63,82.5,945.1,66.8,28.2,158.0,135.0,Cyclonic Storm,Friday,28.0,58.5
+2019-05-24 06:00,Andhra Pradesh,Guntur,19.36,81.34,70.2,942.6,89.5,30.0,126.4,147.6,Very Severe Cyclonic Storm,Friday,30.4,64.2
+2019-05-24 12:00,Andhra Pradesh,Visakhapatnam,18.27,86.95,77.1,947.8,70.8,22.7,149.9,21.4,Depression,Friday,27.5,53.6
+2019-05-24 18:00,Odisha,Cuttack,21.4,82.53,131.3,942.9,65.9,33.8,152.4,289.9,Cyclonic Storm,Friday,27.0,68.6
+2019-05-25 00:00,Odisha,Cuttack,18.75,86.94,121.9,976.1,79.6,30.0,154.6,68.5,Severe Cyclonic Storm,Saturday,29.7,69.1
+2019-05-25 06:00,Andhra Pradesh,Krishna,13.85,85.38,119.9,1000.8,67.1,30.3,98.8,253.1,Cyclonic Storm,Saturday,30.8,60.5
+2019-05-25 12:00,West Bengal,Kolkata,17.47,84.94,196.4,979.9,61.2,33.2,171.3,72.5,Cyclonic Storm,Saturday,29.6,51.8
+2019-05-25 18:00,Odisha,Cuttack,18.86,80.85,158.4,1010.0,61.9,33.7,148.3,128.0,Deep Depression,Saturday,30.5,63.5
+2019-05-26 00:00,Tamil Nadu,Thanjavur,18.1,85.91,198.1,968.3,73.1,30.0,167.3,241.4,Deep Depression,Sunday,28.7,64.5
+2019-05-26 06:00,West Bengal,Kolkata,14.08,84.36,41.0,962.7,74.7,26.8,132.9,211.7,Severe Cyclonic Storm,Sunday,28.6,53.5
+2019-05-26 12:00,Tamil Nadu,Nagapattinam,15.14,82.99,80.9,945.1,84.1,30.0,123.9,120.1,Cyclonic Storm,Sunday,30.5,55.6
+2019-05-26 18:00,West Bengal,Howrah,17.31,80.21,101.4,966.6,76.0,29.0,177.1,164.7,Severe Cyclonic Storm,Sunday,29.4,62.9
+2019-05-27 00:00,Tamil Nadu,Chennai,20.32,85.74,212.0,941.3,67.8,22.1,187.5,80.6,Very Severe Cyclonic Storm,Monday,30.7,41.8
+2019-05-27 06:00,Tamil Nadu,Kanchipuram,21.41,82.81,58.3,974.0,70.3,25.4,123.2,99.1,Very Severe Cyclonic Storm,Monday,30.2,56.2
+2019-05-27 12:00,Andhra Pradesh,Krishna,15.8,84.88,168.9,959.1,76.5,23.5,163.7,62.6,Very Severe Cyclonic Storm,Monday,29.1,61.3
+2019-05-27 18:00,West Bengal,Midnapore,13.96,84.54,86.2,1007.4,79.3,31.7,88.5,169.6,Very Severe Cyclonic Storm,Monday,27.2,59.0
+2019-05-28 00:00,Tamil Nadu,Chennai,21.56,84.81,187.5,1001.9,69.1,24.5,107.9,253.6,Very Severe Cyclonic Storm,Tuesday,30.6,50.6
+2019-05-28 06:00,West Bengal,Kolkata,15.13,86.24,89.5,997.6,76.9,30.0,148.6,37.7,Very Severe Cyclonic Storm,Tuesday,29.5,53.6
+2019-05-28 12:00,West Bengal,Midnapore,18.28,81.34,172.6,1000.4,68.7,23.1,133.8,186.1,Very Severe Cyclonic Storm,Tuesday,29.2,47.0
+2019-05-28 18:00,Odisha,Balasore,16.52,84.76,129.4,1009.1,65.5,30.3,114.9,127.3,Severe Cyclonic Storm,Tuesday,28.7,61.5
+2019-05-29 00:00,West Bengal,Kolkata,19.23,87.93,63.1,947.3,89.0,28.9,124.5,34.8,Severe Cyclonic Storm,Wednesday,30.6,45.8
+2019-05-29 06:00,Andhra Pradesh,Vizianagaram,15.91,81.81,103.9,944.9,80.8,22.8,139.5,242.1,Severe Cyclonic Storm,Wednesday,27.9,56.2
+2019-05-29 12:00,Andhra Pradesh,Guntur,20.92,85.21,135.9,962.7,73.3,30.0,176.1,144.9,Severe Cyclonic Storm,Wednesday,27.2,56.9
+2019-05-29 18:00,Andhra Pradesh,Srikakulam,21.62,81.4,164.2,954.1,81.4,23.2,162.4,140.6,Cyclonic Storm,Wednesday,30.0,50.4
+2019-05-30 00:00,West Bengal,South 24 Parganas,18.98,86.36,206.9,956.4,76.0,23.8,187.8,161.1,Severe Cyclonic Storm,Thursday,29.5,42.7
+2019-05-30 06:00,Andhra Pradesh,Guntur,19.8,81.02,188.7,994.7,88.3,22.4,142.7,97.9,Severe Cyclonic Storm,Thursday,28.1,50.8
+2019-05-30 12:00,Andhra Pradesh,Krishna,13.79,87.5,139.7,961.4,75.9,27.4,152.0,276.6,Severe Cyclonic Storm,Thursday,29.0,69.8
+2019-05-30 18:00,Tamil Nadu,Kanchipuram,20.66,81.67,207.5,948.1,92.7,26.6,217.7,264.6,Cyclonic Storm,Thursday,30.5,64.2
+2019-05-31 00:00,West Bengal,Howrah,20.11,82.44,54.6,968.2,66.9,30.3,120.1,195.9,Severe Cyclonic Storm,Friday,30.3,44.0
+2019-05-31 06:00,West Bengal,Kolkata,20.76,87.38,127.7,982.4,90.6,24.1,130.5,155.7,Severe Cyclonic Storm,Friday,28.6,44.4
+2019-05-31 12:00,Andhra Pradesh,Visakhapatnam,16.31,80.55,44.6,949.5,98.5,28.6,125.0,100.4,Very Severe Cyclonic Storm,Friday,29.0,53.2
+2019-05-31 18:00,Tamil Nadu,Cuddalore,13.95,85.13,78.9,983.4,86.0,23.8,127.8,27.8,Cyclonic Storm,Friday,30.1,53.8
+2019-06-01 00:00,West Bengal,South 24 Parganas,13.52,87.96,50.4,988.7,99.3,24.9,96.0,210.7,Very Severe Cyclonic Storm,Saturday,27.2,55.3
+2019-06-01 06:00,Tamil Nadu,Kanchipuram,21.97,86.51,150.7,961.4,85.0,28.3,140.9,133.6,Cyclonic Storm,Saturday,27.5,66.6
+2019-06-01 12:00,Tamil Nadu,Kanchipuram,17.05,81.56,106.2,969.0,93.1,30.8,120.5,15.6,Depression,Saturday,28.0,62.8
+2019-06-01 18:00,West Bengal,South 24 Parganas,14.23,84.28,78.7,940.8,69.6,33.7,87.5,242.4,Severe Cyclonic Storm,Saturday,30.8,54.6
+2019-06-02 00:00,West Bengal,Kolkata,13.99,84.38,121.8,999.1,63.9,27.9,112.0,223.8,Cyclonic Storm,Sunday,28.9,51.3
+2019-06-02 06:00,Tamil Nadu,Nagapattinam,16.55,83.68,181.3,1002.4,98.2,31.4,116.4,101.5,Very Severe Cyclonic Storm,Sunday,29.8,53.1
+2019-06-02 12:00,Andhra Pradesh,Vizianagaram,15.29,86.73,46.9,1003.1,78.5,29.6,115.0,194.6,Cyclonic Storm,Sunday,29.5,42.0
+2019-06-02 18:00,Tamil Nadu,Thanjavur,17.67,81.2,172.7,975.9,87.2,22.5,151.2,34.6,Deep Depression,Sunday,29.9,42.2
+2019-06-03 00:00,West Bengal,Howrah,13.64,80.1,212.2,991.6,74.1,25.6,171.3,201.8,Deep Depression,Monday,27.7,45.2
+2019-06-03 06:00,West Bengal,North 24 Parganas,13.89,85.28,177.6,958.6,60.8,23.0,142.0,290.7,Severe Cyclonic Storm,Monday,28.2,63.1
+2019-06-03 12:00,Odisha,Khurda,18.62,83.06,77.0,948.5,84.6,31.3,144.1,22.2,Cyclonic Storm,Monday,30.9,64.0
+2019-06-03 18:00,Odisha,Khurda,15.64,87.84,148.3,980.8,89.9,31.7,180.0,200.4,Very Severe Cyclonic Storm,Monday,27.5,50.1
+2019-06-04 00:00,Tamil Nadu,Cuddalore,21.35,81.8,107.0,970.2,77.6,29.4,127.2,267.2,Deep Depression,Tuesday,29.6,48.6
+2019-06-04 06:00,Odisha,Cuttack,20.34,86.89,192.4,1004.3,70.1,31.1,130.4,143.6,Deep Depression,Tuesday,30.4,61.9
+2019-06-04 12:00,Odisha,Puri,19.99,85.25,71.9,978.2,99.4,33.2,126.9,247.2,Very Severe Cyclonic Storm,Tuesday,27.9,55.2
+2019-06-04 18:00,Tamil Nadu,Cuddalore,20.57,85.86,137.6,981.3,80.3,25.6,120.7,173.9,Severe Cyclonic Storm,Tuesday,29.8,66.2
+2019-06-05 00:00,Andhra Pradesh,Guntur,18.73,86.09,68.8,972.3,60.4,25.0,116.9,242.0,Cyclonic Storm,Wednesday,27.8,56.7
+2019-06-05 06:00,Tamil Nadu,Cuddalore,19.6,84.93,73.8,964.9,91.4,28.7,109.0,11.5,Cyclonic Storm,Wednesday,30.0,41.1
+2019-06-05 12:00,West Bengal,South 24 Parganas,19.71,81.62,212.5,965.8,73.1,23.8,174.7,298.9,Very Severe Cyclonic Storm,Wednesday,28.5,53.5
+2019-06-05 18:00,West Bengal,Kolkata,19.5,87.09,146.7,967.4,76.5,30.3,135.5,10.9,Severe Cyclonic Storm,Wednesday,29.5,50.7
+2019-06-06 00:00,Odisha,Balasore,20.15,80.74,145.9,973.7,85.7,22.8,170.5,172.6,Cyclonic Storm,Thursday,29.4,60.3
+2019-06-06 06:00,Andhra Pradesh,Vizianagaram,20.24,82.16,188.5,974.9,63.1,22.7,189.8,106.9,Deep Depression,Thursday,30.1,61.2
+2019-06-06 12:00,Tamil Nadu,Nagapattinam,20.1,84.14,119.2,950.3,73.1,27.2,143.0,183.5,Severe Cyclonic Storm,Thursday,29.9,70.0
+2019-06-06 18:00,West Bengal,South 24 Parganas,21.4,85.14,115.8,984.5,91.4,23.4,124.3,128.9,Severe Cyclonic Storm,Thursday,30.4,51.5
+2019-06-07 00:00,Odisha,Ganjam,18.15,84.7,73.2,965.4,73.4,22.3,128.4,96.6,Cyclonic Storm,Friday,30.8,47.8
+2019-06-07 06:00,West Bengal,Midnapore,16.87,86.98,191.5,953.0,92.1,27.5,126.0,150.1,Severe Cyclonic Storm,Friday,27.5,42.4
+2019-06-07 12:00,Andhra Pradesh,Srikakulam,19.55,83.97,118.6,991.1,90.6,23.9,104.1,227.9,Severe Cyclonic Storm,Friday,29.6,68.7
+2019-06-07 18:00,Odisha,Ganjam,13.62,80.46,90.8,958.3,69.9,32.9,139.6,82.4,Severe Cyclonic Storm,Friday,28.1,62.8
+2019-06-08 00:00,Andhra Pradesh,Krishna,17.05,86.21,51.8,974.1,61.3,22.8,67.4,110.7,Cyclonic Storm,Saturday,30.6,40.7
+2019-06-08 06:00,Andhra Pradesh,Srikakulam,18.97,87.71,140.8,1005.6,62.1,27.0,140.1,85.4,Deep Depression,Saturday,29.9,69.4
+2019-06-08 12:00,Tamil Nadu,Thanjavur,15.31,85.23,75.7,979.6,78.6,33.7,86.8,43.1,Severe Cyclonic Storm,Saturday,27.6,46.8
+2019-06-08 18:00,Odisha,Cuttack,15.26,86.8,141.0,976.6,64.6,32.3,160.2,219.6,Severe Cyclonic Storm,Saturday,27.3,61.2

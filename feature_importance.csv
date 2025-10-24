@@ -1,0 +1,10 @@
+feature,importance
+wind_kmph,0.25769347
+Pressure_hPa,0.17992622
+Sea_Surface_Temp_C,0.115872934
+dist_km,0.10087832
+Humidity_%,0.08797937
+lon,0.08465726
+Temperature_C,0.06836437
+pw_mm,0.05842949
+lat,0.046198666
